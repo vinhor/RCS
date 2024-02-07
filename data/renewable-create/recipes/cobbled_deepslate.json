@@ -1,8 +1,8 @@
 {
-  "type": "create:haunting",
+  "type": "minecraft:smelting",
   "ingredients": [
     {
-      "item": "minecraft:blackstone"
+      "item": "minecraft:andesite"
     }
   ],
   "results": [
