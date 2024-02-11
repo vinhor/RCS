@@ -1,6 +1,6 @@
 # What is RCS?
 RCS is datapack, allowing you to create farms on blaze cakes, deepslate, zinc and more!
 ## Where I can download RCS?
-Momentally is RCS under review on Modrinth. When RCS will be published, I will post here link
+You can search for this mod in launchers supporting Modrinth API or download it here: https://modrinth.com/mod/rcs
 ## What RCS stands for?
 Renewable Create stones.
